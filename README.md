@@ -28,4 +28,13 @@
 
 
 install Kail linux
-pip3 install requests pysocks
+
+$pip3 install requests pysocks
+
+$https://github.com/V3noM-Cyber/DDos-web-attackDDos-web-attack
+
+$cd DDos-web-attack
+
+$python3 DDos-V3nom.py
+
+
