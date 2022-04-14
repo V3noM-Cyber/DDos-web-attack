@@ -1,5 +1,3 @@
-# DDos-web-attack
-
 
                         /',            ,'\
                        /gg\            /gg\
@@ -24,6 +22,8 @@
 + -- -=[          free ddos  Attack Tool                       ]
 + -- -=[          DDos Attack $By V3nom Cyber                  ]
 + -- -=[_______________________________________________________]
+
+Mode You Want To Choose (get/head):
 
 
 
