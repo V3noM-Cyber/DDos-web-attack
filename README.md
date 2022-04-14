@@ -24,3 +24,8 @@
 + -- -=[          free ddos  Attack Tool                       ]
 + -- -=[          DDos Attack $By V3nom Cyber                  ]
 + -- -=[_______________________________________________________]
+
+
+
+install Kail linux
+pip3 install requests pysocks
